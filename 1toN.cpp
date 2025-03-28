@@ -25,8 +25,7 @@ void print(int num){
     cout<<num<< endl;
 
    
-   
-
+    
    
 }
 int main(){
